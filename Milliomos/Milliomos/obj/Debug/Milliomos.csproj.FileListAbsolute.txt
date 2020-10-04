@@ -1,0 +1,7 @@
+C:\Users\Bence\Desktop\Milliomos\Milliomos\Milliomos\bin\Debug\Milliomos.exe.config
+C:\Users\Bence\Desktop\Milliomos\Milliomos\Milliomos\bin\Debug\Milliomos.exe
+C:\Users\Bence\Desktop\Milliomos\Milliomos\Milliomos\bin\Debug\Milliomos.pdb
+C:\Users\Bence\Desktop\Milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.csprojAssemblyReference.cache
+C:\Users\Bence\Desktop\Milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.csproj.CoreCompileInputs.cache
+C:\Users\Bence\Desktop\Milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.exe
+C:\Users\Bence\Desktop\Milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.pdb
